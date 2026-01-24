@@ -1,0 +1,1 @@
+Regarding this code, it came from the Unity 2017 and Unity Wii U Build Support software frameworks as well as from myself while setting up the development environment and integrating the application with the Wii/Wii U Remote and Wii U hardware.
